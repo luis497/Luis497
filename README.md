@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Luis Angel López Miranda, un apasionado de la tecnología y el desarrollo de software🚀. Aquí encontrarás una breve descripción sobre mí y algunos de mis proyectos destacados.
+¡Bienvenido a mi perfil de GitHub! Soy Luis Angel López Miranda, un apasionado de la tecnología y el desarrollo de software🚀. Aquí encontrarás una breve descripción sobre mí.
 
 ## Sobre mí 👨‍💻 
 
