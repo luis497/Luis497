@@ -10,10 +10,9 @@ Soy un desarrollador de software sin experiencia. Me encanta aprender cosas nuev
 
 ## Mis habilidades 💡
 
-- Diseño responsivo
-- Herramientas de desarrollo
-- Control de versiones
-(GitHub)
+- Diseño responsivo 📱💻🖥️📏
+- Herramientas de desarrollo 💻🛠️
+- Control de versiones (GitHub) 🔄📂🐙🔗
 
 Puedes seguir explorando mis repositorios para descubrir más sobre mis proyectos y contribuciones. ¡No dudes en contactarme si quieres colaborar en algo o simplemente charlar sobre tecnología!
 
